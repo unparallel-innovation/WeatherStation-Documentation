@@ -1,5 +1,5 @@
 site_name: Unparallel Weather Station
-site_url: http://10.0.1.55:8000/dev-corner/
+site_url: https://unparallel-innovation.github.io/WeatherStation-Documentation/
 site_description: Project documentation about the Unparallel Weather Station
 site_author: Unparallel Innovation, Lda
 site_favicon: img/weather_station_favicon2x.png
