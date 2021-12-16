@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/10_Closing_enclosure/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/10_Closing_enclosure/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/11_Adding_cord_rubber_%28optional%29/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/11_Adding_cord_rubber_%28optional%29/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/12_Adding_solar_panel_support_to_the_enclosure/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/12_Adding_solar_panel_support_to_the_enclosure/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/13_Adding_claw_to_the_enclosure/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/13_Adding_claw_to_the_enclosure/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/14_Start_receiving_measures/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/14_Start_receiving_measures/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/1_Have-the-3d-print-available/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/1_Have-the-3d-print-available/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/2_Prepare-AM2315-sensor/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/2_Prepare-AM2315-sensor/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/3_Adding_AM2315_and_Antenna_to_enclosure/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/3_Adding_AM2315_and_Antenna_to_enclosure/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/4_Prepare_Weather_Meter_Kit_SEN-15901/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/4_Prepare_Weather_Meter_Kit_SEN-15901/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/5_Prepare_the_panel_solar/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/5_Prepare_the_panel_solar/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/6_Adding_cables_to_enclosure/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/6_Adding_cables_to_enclosure/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/7_Attaching_clamp_to_the_enclosure_and_checking_battery_connector/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/7_Attaching_clamp_to_the_enclosure_and_checking_battery_connector/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/8_Adding_LoPy4_to_the_PCB/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/8_Adding_LoPy4_to_the_PCB/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/9_Identifying_sensors_connectors_and_make_connections/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/9_Identifying_sensors_connectors_and_make_connections/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/Assemble/Introduction/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/Assemble/Introduction/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://10.0.1.55:8000/dev-corner/BoardSpecs/Board_Specs/</loc>
+         <loc>https://unparallel-innovation.github.io/WeatherStation-Documentation/BoardSpecs/Board_Specs/</loc>
          <lastmod>2021-12-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
