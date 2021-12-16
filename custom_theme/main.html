@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{%- block footer %}
+  {%- include "footer.html" %}
+{% endblock %}
+
+
+{%- block repo %}
+                        {%- if page and page.edit_url %}
+                            <li class="nav-item">
+                                <a href="{{ page.edit_url }}" class="nav-link">
+                                    {%- if config.repo_name == 'GitHub' -%}
+                                        <i class="fa fa-github"></i> {% trans repo_name=config.repo_name %}Edit on {{ repo_name }}{% endtrans %}
+                                    {%- elif config.repo_name == 'Bitbucket' -%}
+                                        <i class="fa fa-bitbucket"></i> {% trans repo_name=config.repo_name %}Edit on {{ repo_name }}{% endtrans %}
+                                    {%- elif config.repo_name == 'GitLab' -%}
+                                        <i class="fa fa-gitlab"></i> {% trans repo_name=config.repo_name %}Edit on {{ repo_name }}{% endtrans %}
+                                    {%- else -%}
+                                    {% trans repo_name=config.repo_name%}Edit on {{ repo_name }}{% endtrans %}
+                                    {%- endif -%}
+                                </a>
+                            </li>
+                        {%- elif config.repo_url %}
+                            <li class="nav-item">
+                                <a href="{{ config.repo_url }}" class="nav-link">
+                                    {%- if config.repo_name == 'GitHub' -%}
+                                        <i class="fa fa-github"></i> {{ config.repo_name }}
+                                    {%- elif config.repo_name == 'Bitbucket' -%}
+                                        <i class="fa fa-bitbucket"></i> {{ config.repo_name }}
+                                    {%- elif config.repo_name == 'GitLab' -%}
+                                        <i class="fa fa-gitlab"></i> {{ config.repo_name }}
+                                    {%- else -%}
+                                    {{ config.repo_name }}
+                                    {%- endif -%}
+                                </a>
+                            </li>
+                        {%- endif %}
+                      {%- endblock %}
+                      {%- block site_name %}
+                              {%- if config.theme.logo %}
+                                <a href="{{ nav.homepage.url|url }}">
+                              {%- else %}
+
+                                <a href="{{ config.site_url }}"><img class="top-image" src="/dev-corner/logo_weather_station@3x.png"  /a>
+
+
+                              {%- endif %}
+                              {%- if config.theme.logo %}
+                              {%- endif %}
+                              </a>
+                            {%- endblock %}
