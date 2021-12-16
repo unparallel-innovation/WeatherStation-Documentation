@@ -4,9 +4,9 @@ site_description: Project documentation about the Unparallel Weather Station
 site_author: Unparallel Innovation, Lda
 site_favicon: img/weather_station_favicon2x.png
 # Local
-#site_dir: site
+site_dir: site
 # Server
-site_dir: /var/www/html/dev-corner
+#site_dir: /var/www/html/dev-corner
 
 repo_url: https://www.iot-catalogue.com/search/component/60704f126dc1142086fa54f6
 
