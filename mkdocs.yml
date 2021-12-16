@@ -45,4 +45,3 @@ markdown_extensions:
         permalink: true
 
 copyright: Copyright &copy; 2021 <a href="https://www.unparallel.pt">UNPARALLEL Innovation, Lda</a>.
-google_analytics: ['UA-74601518-1', 'http://giv-oct.uni-muenster.de/dev-corner/']
