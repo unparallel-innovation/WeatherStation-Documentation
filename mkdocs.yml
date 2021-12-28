@@ -14,7 +14,7 @@ pages:
 - Home: index.md
 - Assemble your Weather Station:
     - Introduction: Assemble/Introduction.md
-    - Have the 3d print available: Assemble/1_Have-the-3d-print-available.md
+    - Prepare your 3d print parts: Assemble/1_Have-the-3d-print-available.md
     - Prepare AM2315 sensor: Assemble/2_Prepare-AM2315-sensor.md
     - Adding AM2315 and Antenna to enclosure: Assemble/3_Adding_AM2315_and_Antenna_to_enclosure.md
     - Prepare Weather Meter Kit SEN-15901: Assemble/4_Prepare_Weather_Meter_Kit_SEN-15901.md

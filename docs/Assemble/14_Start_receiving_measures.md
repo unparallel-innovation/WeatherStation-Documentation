@@ -2,7 +2,7 @@
 
 ---
 
-<div style="text-align: justify">Finally, we have everything ready to deploy the weather station on the field. The Weather station is prepared to be on a circular tube, as it can be checked in the following photos. After deploying it you should be able to see on the desired platform according to your firmware configuration.</div>
+<div style="text-align: justify">Finally, we have everything ready to deploy the weather station on the field. The Weather station is prepared to be on a circular tube, as it can be checked in the following photos below. After deploying it, you should be able to see the data on the desired platform according to your firmware configuration.</div>
 
 <br />
 

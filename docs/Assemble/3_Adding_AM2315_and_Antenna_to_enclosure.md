@@ -2,7 +2,7 @@
 
 ---
 
-<div style="text-align: justify"> Now, it is time to mount the sensor and antenna in the enclosure. Both are screwed directly in the enclosure as it is possible to see in the image.</div>
+<div style="text-align: justify"> Mount the sensor and antenna in the enclosure, both are screwed directly in the enclosure as it is possible to see in the figure.</div>
 
 <br />
 

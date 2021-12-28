@@ -2,9 +2,9 @@
 
 ---
 
-<div style="text-align: justify">Now the next step, should be getting some cable inside the enclosure passing through the hole at the right as it is possible to check in the image.
+<div style="text-align: justify">The cable must pass through the hole at the right as it is possible to check in the image.
 <br />
-As it was recommended to tin the wires from AM2315 sensor, we also recommend tinning the wires from the panel. So, pass to the interior the solar panel cable and two cables with RJ12 connector from weather meter kit.</div>
+As it was recommended to tin the wires from AM2315 sensor, we also recommend tinning the wires from the panel. You must also pass to the interior the solar panel cable and two cables with RJ12 connector from weather meter kit.</div>
 
 <br />
 

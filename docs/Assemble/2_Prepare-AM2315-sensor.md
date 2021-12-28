@@ -1,7 +1,7 @@
 # Prepare AM2315 sensor
 
 ---
-<div style="text-align: justify"> Prepare the AM2315 sensor, start by removing the plastic parts as it can be shown in the Figures below. You can also make the cable shorter to make your life easier in putting everything inside. If you have the capabilities to tin the wire it will be a good improved, but it will also work with a wire without tinning it.</div>
+<div style="text-align: justify"> Prepare the AM2315 sensor, start by removing the plastic parts, as it can be shown in the figures below. You can also make the cable shorter to make your life easier in putting everything inside. If you have the capabilities to tin the wire it will be a good improved, but it will also work with a wire without tinning it.</div>
 
 <br />
 

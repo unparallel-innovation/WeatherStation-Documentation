@@ -2,7 +2,7 @@
 
 ---
 
-<div style="text-align: justify">This step is optional, but the step is here to demonstrate the enclosure was already prepared to take a cord rubber 2mm in the enclosure as it can be seen in the figures. This will help to make it even more weather resistance. It is only used one cord across all the enclosure. If you check the following photos you will see cords in multiples places, but it is only to show how it fits in the different places where it will touch.</div>
+<div style="text-align: justify">This step is optional and demonstrate that the enclosure was already prepared to take a runner cord 2mm in the enclosure as it can be seen in the figures. This will help to make it even more weather resistance. It is only used one cord across all the enclosure. If you check the following figures you will see rubber cords from different angles, but it is only to show how it fits in the different places where it will touch.</div>
 
 <br />
 

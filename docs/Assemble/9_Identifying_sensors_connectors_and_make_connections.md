@@ -1,11 +1,11 @@
 # Identifying sensors connectors and make connections
 
 ---
-<div style="text-align: justify">Now it is time to put everything inside the enclosure and make the connections. In Figure 10 its is possible to identify which connector belongs to wind and rain sensor and connect it to the PCB. Then connect the AM2315 wires to the PCB following the schema in connections manual. Connect the Sigfox antenna to LoPy4 if you are going to use Sigfox. Remember the place where the antenna is connected belongs to 868/915MHz, if in your country Sigfox use 433MHz you must connect it to a different place.
+<div style="text-align: justify">Now it is time to put everything inside the enclosure and make the connections. In the first figure, it is possible to identify which connector belongs to wind and rain sensor and connect it to the PCB. Then connect the AM2315 wires to the PCB following the schema in connections manual. Connect the Sigfox antenna to LoPy4 if you are going to use Sigfox. Remember the place where the antenna is connected belongs to 868/915MHz, if in your country Sigfox use 433MHz you must connect it to a different place.
 <br />
-Now connect the battery, ensuring the connector has the right pinout and at this time the weather station is being already supplied and will start running the code which was previously uploaded.
+Now connect the battery, ensuring the connector has the correct pinout and at this point, the weather station is being already supplied and will start running the code which was previously uploaded.
 <br />
-Only solar panel is missing from connecting to it, once again take attention to the negative and positive poles and be always carefully because the system it is already working.</div>
+Only the solar panel is missing from connecting to it, once again take attention to the negative and positive poles and be always carefully because the system it is already working.</div>
 
 <br />
 

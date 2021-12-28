@@ -2,7 +2,7 @@
 
 ---
 
-<div style="text-align: justify">Now fit the support panel as it is shown in the figure below.</div>
+<div style="text-align: justify">Fit the support panel as it is shown in the figure below.</div>
 
 <br />
 

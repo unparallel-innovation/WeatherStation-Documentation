@@ -2,7 +2,7 @@
 
 ---
 
-<div style="text-align: justify">Start removing the film on the top of the panel solar. After removing it, hold the panel like it shown below, for this use also the 3D parts which you can print, and they are available in the same enclosure repository.</div>
+<div style="text-align: justify">To pepare the solar panel, start by removing the film on the top of the panel solar. After taking it out, hold the panel like it shown below, for this also use the 3D parts which you can print, and they are available in the same enclosure repository.</div>
 
 <br />
 
