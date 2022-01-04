@@ -17,6 +17,7 @@ This repository contains information about how the enclosure can be assembled wi
 
 
 ## Related Repositories:
+*  [Unparallel WeatherStation Software](https://github.com/unparallel-innovation/WeatherStation-Software)
 *  [Unparallel WeatherStation PCB](https://github.com/unparallel-innovation/WeatherStation-PCB)
 *  [Unparallel WeatherStation Enclosure](https://github.com/unparallel-innovation/WeatherStation-Enclosure)
 *  [Unparallel WeatherStation Connector](https://github.com/unparallel-innovation/WeatherStation-Connector)
