@@ -20,7 +20,6 @@ This repository contains information about how the enclosure can be assembled wi
 *  [Unparallel WeatherStation PCB](https://github.com/unparallel-innovation/WeatherStation-PCB)
 *  [Unparallel WeatherStation Enclosure](https://github.com/unparallel-innovation/WeatherStation-Enclosure)
 *  [Unparallel WeatherStation Connector](https://github.com/unparallel-innovation/WeatherStation-Connector)
-*	 [Unparallel WeatherStation Documentation](https://github.com/unparallel-innovation/WeatherStation-Documentation)
 
 
 ___
