@@ -27,7 +27,8 @@ pages:
     - Adding cord rubber (optional): Assemble/11_Adding_cord_rubber_(optional).md
     - Adding solar panel support to the enclosure: Assemble/12_Adding_solar_panel_support_to_the_enclosure.md
     - Adding claw to the enclosure: Assemble/13_Adding_claw_to_the_enclosure.md
-    - Start receiving measures: Assemble/14_Start_receiving_measures.md
+    - Deploying Weather Station: Assemble/14_deploy.md
+    - Start receiving measures: Assemble/15_Start_receiving_measures.md
 - Board:
     - Board Ports: BoardSpecs/Board_Specs.md
 
