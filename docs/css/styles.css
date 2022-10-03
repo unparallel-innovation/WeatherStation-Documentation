@@ -1,0 +1,153 @@
+body {
+    font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+   font-family: sans-serif;
+   font-weight: bold;
+   color: #02a9e2; /*verde, cor dos titulos*/
+}
+
+.image {
+    width:auto;
+    height:auto;
+}
+
+.heading {
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+.sub-heading {
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+.wy-side-nav-search input[type="text"] {
+    width: 100%;
+    border-radius: 50px;
+    padding: 6px 12px;
+    border-color: #C9C9C9; /*cizento em torno do search*/
+}
+
+
+.wy-side-nav-search{
+  background: #f1f8e2 ; /*verde claro, onde fica o logo*/
+}
+
+.wy-menu-vertical{
+background: #005670; /*azul escuro*/
+}
+
+.wy-menu-vertical a:hover {
+    background-color: #004154; /*azul claro, a alterar*/
+    cursor: pointer;
+}
+
+.wy-menu-vertical li.on a, .wy-menu-vertical li.current>a {
+color: #f1f8e2; /*azul claro, quando se selecciona*/
+padding: 0.4045em 1.618em;
+font-weight: bold;
+background: #f1f8e2 /*azul claro, quando se selecciona*/
+}
+
+
+span {
+    color: #86c609; /*verde, cor dos titulos*/
+}
+
+
+.wy-nav-side {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    padding-bottom: 2em;
+  /*  width: 300px;*/
+    overflow-x: hidden;
+    overflow-y: hidden;
+    min-height: 100%;
+    color: #9b9b9b; /*ver o que é*/
+    background: #005670; /*azul escuro*/
+    z-index: 200;
+}
+
+.wy-menu-vertical li.toctree-l1.current>a {
+border-bottom: solid 1px #005670; /*cor das linhas, azul*/
+border-top: solid 1px #005670; /*cor das linhas, azul*/
+color: white; /*cor do texto*/
+background: #02a9e2; /*cor da caixa seleccionada*/
+}
+.wy-side-scroll {
+  width: auto;
+  overflow-y: auto;
+}
+
+
+
+
+.wy-menu-vertical li.toctree-l2.current > a {
+    background: #67cbee; /*azul calro, quando selecciono*/
+}
+
+.wy-menu-vertical li.toctree-l2 a, .wy-menu-vertical li.toctree-l3 a, .wy-menu-vertical li.toctree-l4 a {
+    color: white; /*branco, cor do texto*/
+}
+
+.wy-menu-vertical li.current a:hover {
+    background: #67cbee; /*azul claro, quando se passa por cima do texto, os separadores da página*/
+}
+
+
+.rst-current-version a{
+  font-size: 14px;
+
+}
+.rst-current-version a.next-link{
+  padding-left:20px;
+
+}
+.wy-side-nav-search img.top-image{
+  border-radius:0;
+  height:85px;
+  width: auto;
+  background-color: #f1f8e2
+}
+
+.wy-side-nav-search > a, .wy-side-nav-search .wy-dropdown > a {
+    color: #fcfcfc;
+    font-size: 100%;
+    font-weight: bold;
+    display: inline-block;
+    padding: 4px 6px;
+    margin-bottom: .0em;
+}
+
+.rst-versions .rst-current-version {
+    padding: 10px;
+    background-color: #004154;
+    display: block;
+    text-align: right;
+    font-size: 90%;
+    cursor: pointer;
+
+}

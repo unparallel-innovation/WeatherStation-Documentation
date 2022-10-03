@@ -1,0 +1,14 @@
+<div class="rst-versions" role="note" aria-label="{% trans %}Versions{% endtrans %}">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    <span>
+
+      <a href="{{ config.repo_url }}"  style="float: left;color: #fcfcfc"><img src="/WeatherStation-Documentation/IoTCatalogue_new_white.png" width="70px"  /></a>
+    </span>
+    {% if page.previous_page %}
+      <span><a class="prev-link" href="{{ page.previous_page.url|url }}" style="color: #fcfcfc">&laquo; {% trans %}Previous{% endtrans %}</a></span>
+    {% endif %}
+    {% if page.next_page %}
+      <span><a class="next-link" href="{{ page.next_page.url|url }}" style="color: #fcfcfc">{% trans %}Next{% endtrans %} &raquo;</a></span>
+    {% endif %}
+  </span>
+</div>
